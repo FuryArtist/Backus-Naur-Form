@@ -1,0 +1,16 @@
+C:\Users\Dmitry\AppData\Local\Temporary Projects\CradleRebuild08\bin\Release\test\TestCode.txt
+C:\Users\Dmitry\AppData\Local\Temporary Projects\CradleRebuild08\bin\Release\CradleRebuild08.exe
+C:\Users\Dmitry\AppData\Local\Temporary Projects\CradleRebuild08\bin\Release\CradleRebuild08.pdb
+C:\Users\Dmitry\AppData\Local\Temporary Projects\CradleRebuild08\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dmitry\AppData\Local\Temporary Projects\CradleRebuild08\obj\Release\CradleRebuild08.exe
+C:\Users\Dmitry\AppData\Local\Temporary Projects\CradleRebuild08\obj\Release\CradleRebuild08.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2008\Projects\CradleRebuild08\CradleRebuild08\obj\Release\CradleRebuild08.exe
+C:\Users\Dmitry\Documents\Visual Studio 2008\Projects\CradleRebuild08\CradleRebuild08\obj\Release\CradleRebuild08.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2008\Projects\CradleRebuild08\CradleRebuild08\bin\Release\test\TestCode.txt
+C:\Users\Dmitry\Documents\Visual Studio 2008\Projects\CradleRebuild08\CradleRebuild08\bin\Release\CradleRebuild08.exe
+C:\Users\Dmitry\Documents\Visual Studio 2008\Projects\CradleRebuild08\CradleRebuild08\bin\Release\CradleRebuild08.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2008\Projects\CradleRebuild08\CradleRebuild08\obj\Release\ResolveAssemblyReference.cache
+C:\Users\SLADKOEWKA\Desktop\CradleRebuild08\CradleRebuild08\obj\Release\CradleRebuild08.exe
+C:\Users\SLADKOEWKA\Desktop\CradleRebuild08\CradleRebuild08\obj\Release\CradleRebuild08.pdb
+C:\Users\iva\Dropbox\Project\C#\CradleRebuild08\CradleRebuild08\obj\Release\CradleRebuild08.exe
+C:\Users\iva\Dropbox\Project\C#\CradleRebuild08\CradleRebuild08\obj\Release\CradleRebuild08.pdb
